@@ -1,25 +1,49 @@
 {
-  "version": "v3.3.35",
-  "release_date": "2026-10-13 17:15:56",
+  "version": "v3.3.36",
+  "release_date": "2026-10-14 04:25:43",
   "pyapp": {
-    "version": "v3.3.35",
+    "version": "v3.3.36",
     "download_url": "https://drive.google.com/open?id=1QOM5DozfLu8bkkj1T55gi1ZmjD_KZxgz",
     "gdrive_url": "https://drive.google.com/open?id=1QOM5DozfLu8bkkj1T55gi1ZmjD_KZxgz",
-    "notes": "Bản phát hành v3.3.35 - Ứng dụng Desktop"
+    "notes": "Bản phát hành v3.3.36 - Ứng dụng Desktop"
   },
   "script": {
-    "version": "v3.3.35",
+    "version": "v3.3.36",
     "github_url": "https://github.com/phungle2508/Keobase-userscript/blob/main/dev/userscript/keobase-bridge.user.js",
     "install_url": "https://github.com/phungle2508/Keobase-userscript/blob/main/dev/userscript/keobase-bridge.user.js",
     "raw_url": "https://raw.githubusercontent.com/phungle2508/keobase-userscript-updates/main/keobase-bridge.user.js",
     "notes": "Userscript Bridge đồng bộ Base Workflow"
   },
   "module": {
-    "version": "v3.3.35",
+    "version": "v3.3.36",
     "gdrive_url": "https://drive.google.com/drive/folders/1q6loQcRUZIlQ0-dNLL4kBeK7Kq_Zz8he?hl=vi",
     "notes": "ModuleBackground CAD BricsCAD DLLs mới nhất"
   },
   "history": [
+    {
+      "version": "v3.3.36",
+      "release_date": "2026-10-14 04:25:43",
+      "summary": "Bản phát hành v3.3.36 - Nâng cấp Keobase Suite",
+      "notes": "Bản phát hành v3.3.36",
+      "pyapp": {
+        "version": "v3.3.36",
+        "download_url": "https://drive.google.com/open?id=1QOM5DozfLu8bkkj1T55gi1ZmjD_KZxgz",
+        "gdrive_url": "https://drive.google.com/open?id=1QOM5DozfLu8bkkj1T55gi1ZmjD_KZxgz",
+        "notes": "Bản phát hành v3.3.36 - Ứng dụng Desktop"
+      },
+      "script": {
+        "version": "v3.3.36",
+        "github_url": "https://github.com/phungle2508/Keobase-userscript/blob/main/dev/userscript/keobase-bridge.user.js",
+        "install_url": "https://github.com/phungle2508/Keobase-userscript/blob/main/dev/userscript/keobase-bridge.user.js",
+        "raw_url": "https://raw.githubusercontent.com/phungle2508/keobase-userscript-updates/main/keobase-bridge.user.js",
+        "notes": "Userscript Bridge đồng bộ Base Workflow"
+      },
+      "module": {
+        "version": "v3.3.36",
+        "gdrive_url": "https://drive.google.com/drive/folders/1q6loQcRUZIlQ0-dNLL4kBeK7Kq_Zz8he?hl=vi",
+        "notes": "ModuleBackground CAD BricsCAD DLLs mới nhất"
+      }
+    },
     {
       "version": "v3.3.35",
       "release_date": "2026-10-13 17:15:56",
@@ -112,30 +136,6 @@
       },
       "module": {
         "version": "v3.3.32",
-        "gdrive_url": "https://drive.google.com/drive/folders/1q6loQcRUZIlQ0-dNLL4kBeK7Kq_Zz8he?hl=vi",
-        "notes": "ModuleBackground CAD BricsCAD DLLs mới nhất"
-      }
-    },
-    {
-      "version": "v3.3.31",
-      "release_date": "2026-10-13 14:05:48",
-      "summary": "Bản phát hành v3.3.31 - Nâng cấp Keobase Suite",
-      "notes": "Bản phát hành v3.3.31",
-      "pyapp": {
-        "version": "v3.3.31",
-        "download_url": "https://drive.google.com/open?id=1QOM5DozfLu8bkkj1T55gi1ZmjD_KZxgz",
-        "gdrive_url": "https://drive.google.com/open?id=1QOM5DozfLu8bkkj1T55gi1ZmjD_KZxgz",
-        "notes": "Bản phát hành v3.3.31 - Ứng dụng Desktop"
-      },
-      "script": {
-        "version": "v3.3.31",
-        "github_url": "https://github.com/phungle2508/Keobase-userscript/blob/main/dev/userscript/keobase-bridge.user.js",
-        "install_url": "https://github.com/phungle2508/Keobase-userscript/blob/main/dev/userscript/keobase-bridge.user.js",
-        "raw_url": "https://raw.githubusercontent.com/phungle2508/keobase-userscript-updates/main/keobase-bridge.user.js",
-        "notes": "Userscript Bridge đồng bộ Base Workflow"
-      },
-      "module": {
-        "version": "v3.3.31",
         "gdrive_url": "https://drive.google.com/drive/folders/1q6loQcRUZIlQ0-dNLL4kBeK7Kq_Zz8he?hl=vi",
         "notes": "ModuleBackground CAD BricsCAD DLLs mới nhất"
       }
