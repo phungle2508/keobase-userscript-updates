@@ -1,6 +1,6 @@
 {
-  "version": "v4.0.1",
-  "release_date": "2026-10-14 08:46:59",
+  "version": "v4.0.2",
+  "release_date": "2026-10-14 11:49:40",
   "pyapp": {
     "version": "v4.0.1",
     "download_url": "https://drive.google.com/open?id=1QOM5DozfLu8bkkj1T55gi1ZmjD_KZxgz",
@@ -15,18 +15,49 @@
     "notes": "Userscript Bridge đồng bộ Base Workflow"
   },
   "module": {
-    "version": "v4.0.1",
+    "version": "v4.0.2",
     "download_url": "https://drive.google.com/open?id=1FE0ysKoN8T9TC593adBdEGbjhAVMrgaX",
     "gdrive_url": "https://drive.google.com/open?id=1FE0ysKoN8T9TC593adBdEGbjhAVMrgaX",
     "cty_url": "https://drive.google.com/open?id=1FE0ysKoN8T9TC593adBdEGbjhAVMrgaX",
     "normal_url": "https://drive.google.com/open?id=1tvf7QGHhDzR5MQG0KhQ1F5lIxu7ZBzyM",
-    "notes": "ModuleBackground CAD BricsCAD DLLs mới nhất (v4.0.1) - Hỗ trợ cả Bản Công ty và Bản Thường"
+    "notes": "ModuleBackground CAD BricsCAD DLLs mới nhất (v4.0.2) - Hỗ trợ cả Bản Công ty và Bản Thường"
   },
   "gaihi": {
     "version": "v4.0.1",
     "notes": "Gaihi OCR Pipeline & GUI (v4.0.1)"
   },
   "history": [
+    {
+      "version": "v4.0.2",
+      "release_date": "2026-10-14 11:49:40",
+      "summary": "Bản phát hành v4.0.2 - Cập nhật: Module CAD (.NET)",
+      "notes": "Bản phát hành v4.0.2 - Cập nhật: Module CAD (.NET)",
+      "pyapp": {
+        "version": "v4.0.1",
+        "download_url": "https://drive.google.com/open?id=1QOM5DozfLu8bkkj1T55gi1ZmjD_KZxgz",
+        "gdrive_url": "https://drive.google.com/open?id=1QOM5DozfLu8bkkj1T55gi1ZmjD_KZxgz",
+        "notes": "Bản phát hành v4.0.1 - Ứng dụng Desktop"
+      },
+      "script": {
+        "version": "v4.0.1",
+        "github_url": "https://github.com/phungle2508/Keobase-userscript/blob/main/dev/userscript/keobase-bridge.user.js",
+        "install_url": "https://github.com/phungle2508/Keobase-userscript/blob/main/dev/userscript/keobase-bridge.user.js",
+        "raw_url": "https://raw.githubusercontent.com/phungle2508/keobase-userscript-updates/main/keobase-bridge.user.js",
+        "notes": "Userscript Bridge đồng bộ Base Workflow"
+      },
+      "module": {
+        "version": "v4.0.2",
+        "download_url": "https://drive.google.com/open?id=1FE0ysKoN8T9TC593adBdEGbjhAVMrgaX",
+        "gdrive_url": "https://drive.google.com/open?id=1FE0ysKoN8T9TC593adBdEGbjhAVMrgaX",
+        "cty_url": "https://drive.google.com/open?id=1FE0ysKoN8T9TC593adBdEGbjhAVMrgaX",
+        "normal_url": "https://drive.google.com/open?id=1tvf7QGHhDzR5MQG0KhQ1F5lIxu7ZBzyM",
+        "notes": "ModuleBackground CAD BricsCAD DLLs mới nhất (v4.0.2) - Hỗ trợ cả Bản Công ty và Bản Thường"
+      },
+      "gaihi": {
+        "version": "v4.0.1",
+        "notes": "Gaihi OCR Pipeline & GUI (v4.0.1)"
+      }
+    },
     {
       "version": "v4.0.1",
       "release_date": "2026-10-14 08:46:59",
@@ -134,30 +165,6 @@
       },
       "module": {
         "version": "v3.3.37",
-        "gdrive_url": "https://drive.google.com/drive/folders/1q6loQcRUZIlQ0-dNLL4kBeK7Kq_Zz8he?hl=vi",
-        "notes": "ModuleBackground CAD BricsCAD DLLs mới nhất"
-      }
-    },
-    {
-      "version": "v3.3.36",
-      "release_date": "2026-10-14 04:25:43",
-      "summary": "Bản phát hành v3.3.36 - Nâng cấp Keobase Suite",
-      "notes": "Bản phát hành v3.3.36",
-      "pyapp": {
-        "version": "v3.3.36",
-        "download_url": "https://drive.google.com/open?id=1QOM5DozfLu8bkkj1T55gi1ZmjD_KZxgz",
-        "gdrive_url": "https://drive.google.com/open?id=1QOM5DozfLu8bkkj1T55gi1ZmjD_KZxgz",
-        "notes": "Bản phát hành v3.3.36 - Ứng dụng Desktop"
-      },
-      "script": {
-        "version": "v3.3.36",
-        "github_url": "https://github.com/phungle2508/Keobase-userscript/blob/main/dev/userscript/keobase-bridge.user.js",
-        "install_url": "https://github.com/phungle2508/Keobase-userscript/blob/main/dev/userscript/keobase-bridge.user.js",
-        "raw_url": "https://raw.githubusercontent.com/phungle2508/keobase-userscript-updates/main/keobase-bridge.user.js",
-        "notes": "Userscript Bridge đồng bộ Base Workflow"
-      },
-      "module": {
-        "version": "v3.3.36",
         "gdrive_url": "https://drive.google.com/drive/folders/1q6loQcRUZIlQ0-dNLL4kBeK7Kq_Zz8he?hl=vi",
         "notes": "ModuleBackground CAD BricsCAD DLLs mới nhất"
       }
