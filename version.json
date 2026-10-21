@@ -1,6 +1,6 @@
 {
   "version": "v4.0.16",
-  "release_date": "2026-10-21 13:49:50",
+  "release_date": "2026-10-21 14:05:00",
   "pyapp": {
     "version": "v4.0.16",
     "download_url": "https://drive.google.com/open?id=1QOM5DozfLu8bkkj1T55gi1ZmjD_KZxgz",
@@ -29,7 +29,7 @@
   "history": [
     {
       "version": "v4.0.16",
-      "release_date": "2026-10-21 13:49:50",
+      "release_date": "2026-10-21 14:05:00",
       "summary": "Bản phát hành v4.0.16 - Cập nhật: Module CAD (.NET), Keobase Tools Desktop & Gaihi OCR, Userscript Chrome",
       "notes": "Bản phát hành v4.0.16 - Cập nhật: Module CAD (.NET), Keobase Tools Desktop & Gaihi OCR, Userscript Chrome",
       "pyapp": {
