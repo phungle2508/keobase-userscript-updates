@@ -1,32 +1,63 @@
 {
-  "version": "v4.0.15",
-  "release_date": "2026-10-19 13:07:56",
+  "version": "v4.0.16",
+  "release_date": "2026-10-21 20:41:36",
   "pyapp": {
-    "version": "v4.0.15",
+    "version": "v4.0.16",
     "download_url": "https://drive.google.com/open?id=1QOM5DozfLu8bkkj1T55gi1ZmjD_KZxgz",
     "gdrive_url": "https://drive.google.com/open?id=1QOM5DozfLu8bkkj1T55gi1ZmjD_KZxgz",
-    "notes": "Bản phát hành v4.0.15 - Ứng dụng Desktop & Gaihi OCR"
+    "notes": "Bản phát hành v4.0.16 - Đồng bộ cập nhật hệ thống và Module CAD mới"
   },
   "script": {
-    "version": "v4.0.15",
+    "version": "v4.0.16",
     "github_url": "https://github.com/phungle2508/Keobase-userscript/blob/main/dev/userscript/keobase-bridge.user.js",
     "install_url": "https://github.com/phungle2508/Keobase-userscript/blob/main/dev/userscript/keobase-bridge.user.js",
     "raw_url": "https://raw.githubusercontent.com/phungle2508/keobase-userscript-updates/main/keobase-bridge.user.js",
-    "notes": "Userscript Bridge đồng bộ Base Workflow (v4.0.15)"
+    "notes": "Userscript Bridge đồng bộ Base Workflow (v4.0.16)"
   },
   "module": {
-    "version": "v4.0.15",
+    "version": "v4.0.16",
     "download_url": "https://drive.google.com/open?id=1z5M4jISZto5zi_1glspVTciXWBUUCHBk",
     "gdrive_url": "https://drive.google.com/open?id=1z5M4jISZto5zi_1glspVTciXWBUUCHBk",
     "cty_url": "https://drive.google.com/open?id=1z5M4jISZto5zi_1glspVTciXWBUUCHBk",
     "normal_url": "https://drive.google.com/open?id=1m4tPxE7jMEOOo9lhVOSki4lGMhZCF5ex",
-    "notes": "ModuleBackground CAD BricsCAD DLLs mới nhất (v4.0.15) - Hỗ trợ cả Bản Công ty và Bản Thường"
+    "notes": "ModuleBackground CAD BricsCAD DLLs mới nhất (v4.0.16): Tích hợp tự động sửa khung tên vào nút [日本語設定] (ST_SetupJapaneseDrawing), tự động nhận diện layer ô vuông 105/120 chiếm đa số trong [初期設定]"
   },
   "gaihi": {
-    "version": "v4.0.15",
+    "version": "v4.0.16",
     "notes": "Gaihi OCR Pipeline & GUI (v4.0.15)"
   },
   "history": [
+    {
+      "version": "v4.0.16",
+      "release_date": "2026-10-21 20:41:36",
+      "summary": "Tích hợp tính năng phân tích & tự động sửa khung tên vào nút [日本語設定] (ST_SetupJapaneseDrawing): tự động đổi ô '作図' -> '本社　設計部', cập nhật ngày hiện tại; Nâng cấp ST_InitialSetup tự động nhận diện layer ô vuông 105/120 chiếm đa số",
+      "notes": "Tích hợp tính năng phân tích & tự động sửa khung tên vào nút [日本語設定] (ST_SetupJapaneseDrawing): tự động đổi ô '作図' -> '本社　設計部', cập nhật ngày hiện tại; Nâng cấp ST_InitialSetup tự động nhận diện layer ô vuông 105/120 chiếm đa số",
+      "pyapp": {
+        "version": "v4.0.16",
+        "download_url": "https://drive.google.com/open?id=1QOM5DozfLu8bkkj1T55gi1ZmjD_KZxgz",
+        "gdrive_url": "https://drive.google.com/open?id=1QOM5DozfLu8bkkj1T55gi1ZmjD_KZxgz",
+        "notes": "Bản phát hành v4.0.16 - Đồng bộ cập nhật hệ thống và Module CAD mới"
+      },
+      "script": {
+        "version": "v4.0.16",
+        "github_url": "https://github.com/phungle2508/Keobase-userscript/blob/main/dev/userscript/keobase-bridge.user.js",
+        "install_url": "https://github.com/phungle2508/Keobase-userscript/blob/main/dev/userscript/keobase-bridge.user.js",
+        "raw_url": "https://raw.githubusercontent.com/phungle2508/keobase-userscript-updates/main/keobase-bridge.user.js",
+        "notes": "Userscript Bridge đồng bộ Base Workflow (v4.0.16)"
+      },
+      "module": {
+        "version": "v4.0.16",
+        "download_url": "https://drive.google.com/open?id=1z5M4jISZto5zi_1glspVTciXWBUUCHBk",
+        "gdrive_url": "https://drive.google.com/open?id=1z5M4jISZto5zi_1glspVTciXWBUUCHBk",
+        "cty_url": "https://drive.google.com/open?id=1z5M4jISZto5zi_1glspVTciXWBUUCHBk",
+        "normal_url": "https://drive.google.com/open?id=1m4tPxE7jMEOOo9lhVOSki4lGMhZCF5ex",
+        "notes": "ModuleBackground CAD BricsCAD DLLs mới nhất (v4.0.16): Tích hợp tự động sửa khung tên vào nút [日本語設定] (ST_SetupJapaneseDrawing), tự động nhận diện layer ô vuông 105/120 chiếm đa số trong [初期設定]"
+      },
+      "gaihi": {
+        "version": "v4.0.16",
+        "notes": "Gaihi OCR Pipeline & GUI (v4.0.15)"
+      }
+    },
     {
       "version": "v4.0.15",
       "release_date": "2026-10-19 13:07:56",
@@ -149,37 +180,6 @@
       "gaihi": {
         "version": "v4.0.12",
         "notes": "Gaihi OCR Pipeline & GUI (v4.0.12)"
-      }
-    },
-    {
-      "version": "v4.0.11",
-      "release_date": "2026-10-19 06:22:10",
-      "summary": "Bản phát hành v4.0.11 - Cập nhật: Module CAD (.NET), Keobase Tools Desktop & Gaihi OCR, Userscript Chrome",
-      "notes": "Bản phát hành v4.0.11 - Cập nhật: Module CAD (.NET), Keobase Tools Desktop & Gaihi OCR, Userscript Chrome",
-      "pyapp": {
-        "version": "v4.0.11",
-        "download_url": "https://drive.google.com/open?id=1QOM5DozfLu8bkkj1T55gi1ZmjD_KZxgz",
-        "gdrive_url": "https://drive.google.com/open?id=1QOM5DozfLu8bkkj1T55gi1ZmjD_KZxgz",
-        "notes": "Bản phát hành v4.0.11 - Ứng dụng Desktop & Gaihi OCR"
-      },
-      "script": {
-        "version": "v4.0.11",
-        "github_url": "https://github.com/phungle2508/Keobase-userscript/blob/main/dev/userscript/keobase-bridge.user.js",
-        "install_url": "https://github.com/phungle2508/Keobase-userscript/blob/main/dev/userscript/keobase-bridge.user.js",
-        "raw_url": "https://raw.githubusercontent.com/phungle2508/keobase-userscript-updates/main/keobase-bridge.user.js",
-        "notes": "Userscript Bridge đồng bộ Base Workflow (v4.0.11)"
-      },
-      "module": {
-        "version": "v4.0.11",
-        "download_url": "https://drive.google.com/open?id=1z5M4jISZto5zi_1glspVTciXWBUUCHBk",
-        "gdrive_url": "https://drive.google.com/open?id=1z5M4jISZto5zi_1glspVTciXWBUUCHBk",
-        "cty_url": "https://drive.google.com/open?id=1z5M4jISZto5zi_1glspVTciXWBUUCHBk",
-        "normal_url": "https://drive.google.com/open?id=1m4tPxE7jMEOOo9lhVOSki4lGMhZCF5ex",
-        "notes": "ModuleBackground CAD BricsCAD DLLs mới nhất (v4.0.11) - Hỗ trợ cả Bản Công ty và Bản Thường"
-      },
-      "gaihi": {
-        "version": "v4.0.11",
-        "notes": "Gaihi OCR Pipeline & GUI (v4.0.11)"
       }
     }
   ]
