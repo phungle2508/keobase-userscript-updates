@@ -1,33 +1,65 @@
 {
-  "version": "v6.0.4",
-  "release_date": "2026-11-08 17:26:00",
+  "version": "6.0.5",
+  "release_date": "2026-11-08 17:34:54",
   "pyapp": {
-    "version": "v6.0.4",
+    "version": "6.0.5",
     "download_url": "https://drive.google.com/open?id=1QOM5DozfLu8bkkj1T55gi1ZmjD_KZxgz",
     "gdrive_url": "https://drive.google.com/open?id=1QOM5DozfLu8bkkj1T55gi1ZmjD_KZxgz",
-    "notes": "Bản phát hành v6.0.4 - Ứng dụng Desktop & Gaihi OCR"
+    "notes": "Bản phát hành 6.0.5 - Ứng dụng Desktop & Gaihi OCR"
   },
   "script": {
-    "version": "6.0.4",
+    "version": "6.0.5",
     "github_url": "https://github.com/phungle2508/Keobase-userscript/blob/main/dev/userscript/keobase-bridge.user.js",
     "install_url": "https://github.com/phungle2508/Keobase-userscript/blob/main/dev/userscript/keobase-bridge.user.js",
     "raw_url": "https://raw.githubusercontent.com/phungle2508/keobase-userscript-updates/main/keobase-bridge.user.js",
-    "notes": "Userscript Bridge đồng bộ Base Workflow (6.0.4)"
+    "notes": "Userscript Bridge đồng bộ Base Workflow (6.0.5)"
   },
   "module": {
-    "version": "v6.0.4",
+    "version": "6.0.5",
     "url": "https://drive.google.com/open?id=1z5M4jISZto5zi_1glspVTciXWBUUCHBk",
     "download_url": "https://drive.google.com/open?id=1z5M4jISZto5zi_1glspVTciXWBUUCHBk",
     "gdrive_url": "https://drive.google.com/open?id=1z5M4jISZto5zi_1glspVTciXWBUUCHBk",
     "cty_url": "https://drive.google.com/open?id=1z5M4jISZto5zi_1glspVTciXWBUUCHBk",
     "normal_url": "https://drive.google.com/open?id=1m4tPxE7jMEOOo9lhVOSki4lGMhZCF5ex",
-    "notes": "ModuleBackground CAD BricsCAD DLLs mới nhất (v6.0.4) - Hỗ trợ cả Bản Công ty và Bản Thường"
+    "notes": "ModuleBackground CAD BricsCAD DLLs mới nhất (6.0.5) - Hỗ trợ cả Bản Công ty và Bản Thường"
   },
   "gaihi": {
-    "version": "v6.0.4",
-    "notes": "Gaihi OCR Pipeline & GUI (v6.0.4)"
+    "version": "6.0.5",
+    "notes": "Gaihi OCR Pipeline & GUI (6.0.5)"
   },
   "history": [
+    {
+      "version": "6.0.5",
+      "release_date": "2026-11-08 17:34:54",
+      "summary": "Bản phát hành 6.0.5 - Cập nhật: Module CAD (.NET), Keobase Tools Desktop & Gaihi OCR, Userscript Chrome",
+      "notes": "Bản phát hành 6.0.5 - Cập nhật: Module CAD (.NET), Keobase Tools Desktop & Gaihi OCR, Userscript Chrome",
+      "pyapp": {
+        "version": "6.0.5",
+        "download_url": "https://drive.google.com/open?id=1QOM5DozfLu8bkkj1T55gi1ZmjD_KZxgz",
+        "gdrive_url": "https://drive.google.com/open?id=1QOM5DozfLu8bkkj1T55gi1ZmjD_KZxgz",
+        "notes": "Bản phát hành 6.0.5 - Ứng dụng Desktop & Gaihi OCR"
+      },
+      "script": {
+        "version": "6.0.5",
+        "github_url": "https://github.com/phungle2508/Keobase-userscript/blob/main/dev/userscript/keobase-bridge.user.js",
+        "install_url": "https://github.com/phungle2508/Keobase-userscript/blob/main/dev/userscript/keobase-bridge.user.js",
+        "raw_url": "https://raw.githubusercontent.com/phungle2508/keobase-userscript-updates/main/keobase-bridge.user.js",
+        "notes": "Userscript Bridge đồng bộ Base Workflow (6.0.5)"
+      },
+      "module": {
+        "version": "6.0.5",
+        "url": "https://drive.google.com/open?id=1z5M4jISZto5zi_1glspVTciXWBUUCHBk",
+        "download_url": "https://drive.google.com/open?id=1z5M4jISZto5zi_1glspVTciXWBUUCHBk",
+        "gdrive_url": "https://drive.google.com/open?id=1z5M4jISZto5zi_1glspVTciXWBUUCHBk",
+        "cty_url": "https://drive.google.com/open?id=1z5M4jISZto5zi_1glspVTciXWBUUCHBk",
+        "normal_url": "https://drive.google.com/open?id=1m4tPxE7jMEOOo9lhVOSki4lGMhZCF5ex",
+        "notes": "ModuleBackground CAD BricsCAD DLLs mới nhất (6.0.5) - Hỗ trợ cả Bản Công ty và Bản Thường"
+      },
+      "gaihi": {
+        "version": "6.0.5",
+        "notes": "Gaihi OCR Pipeline & GUI (6.0.5)"
+      }
+    },
     {
       "version": "v6.0.4",
       "release_date": "2026-11-08 17:26:00",
@@ -154,38 +186,6 @@
       "gaihi": {
         "version": "6.0.3",
         "notes": "Gaihi OCR Pipeline & GUI (6.0.3)"
-      }
-    },
-    {
-      "version": "v6.0.2",
-      "release_date": "2026-11-08 15:29:54",
-      "summary": "Bản phát hành v6.0.2 - Cập nhật: Module CAD (.NET), Keobase Tools Desktop & Gaihi OCR",
-      "notes": "Bản phát hành v6.0.2 - Cập nhật: Module CAD (.NET), Keobase Tools Desktop & Gaihi OCR",
-      "pyapp": {
-        "version": "v6.0.2",
-        "download_url": "https://drive.google.com/open?id=1QOM5DozfLu8bkkj1T55gi1ZmjD_KZxgz",
-        "gdrive_url": "https://drive.google.com/open?id=1QOM5DozfLu8bkkj1T55gi1ZmjD_KZxgz",
-        "notes": "Bản phát hành v6.0.2 - Ứng dụng Desktop & Gaihi OCR"
-      },
-      "script": {
-        "version": "6.0.1",
-        "github_url": "https://github.com/phungle2508/Keobase-userscript/blob/main/dev/userscript/keobase-bridge.user.js",
-        "install_url": "https://github.com/phungle2508/Keobase-userscript/blob/main/dev/userscript/keobase-bridge.user.js",
-        "raw_url": "https://raw.githubusercontent.com/phungle2508/keobase-userscript-updates/main/keobase-bridge.user.js",
-        "notes": "Userscript Bridge đồng bộ Base Workflow (6.0.1)"
-      },
-      "module": {
-        "version": "v6.0.2",
-        "url": "https://drive.google.com/open?id=1z5M4jISZto5zi_1glspVTciXWBUUCHBk",
-        "download_url": "https://drive.google.com/open?id=1z5M4jISZto5zi_1glspVTciXWBUUCHBk",
-        "gdrive_url": "https://drive.google.com/open?id=1z5M4jISZto5zi_1glspVTciXWBUUCHBk",
-        "cty_url": "https://drive.google.com/open?id=1z5M4jISZto5zi_1glspVTciXWBUUCHBk",
-        "normal_url": "https://drive.google.com/open?id=1m4tPxE7jMEOOo9lhVOSki4lGMhZCF5ex",
-        "notes": "ModuleBackground CAD BricsCAD DLLs mới nhất (v6.0.2) - Hỗ trợ cả Bản Công ty và Bản Thường"
-      },
-      "gaihi": {
-        "version": "v6.0.2",
-        "notes": "Gaihi OCR Pipeline & GUI (v6.0.2)"
       }
     }
   ]
