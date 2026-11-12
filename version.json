@@ -1,11 +1,11 @@
 {
   "version": "1.3",
-  "release_date": "2026-11-12 13:58:42",
+  "release_date": "2026-11-12 14:32:57",
   "pyapp": {
     "version": "1.3",
     "type": "patch",
     "patch_url": "https://drive.google.com/open?id=1d41xy1MkbNOS7hoDvJirFjEyRDyqMNCr",
-    "patch_sha256": "cff49f9d45752848967d6698af36493caa8290f257a02d82f6764370e876c1f7",
+    "patch_sha256": "180fb56897136bd3e29a3a0a0144c6384d209a6f5c3efde1c8204bad9e4af8f1",
     "download_url": "https://drive.google.com/open?id=1d41xy1MkbNOS7hoDvJirFjEyRDyqMNCr&file=KeobaseTools.zip",
     "gdrive_url": "https://drive.google.com/open?id=1d41xy1MkbNOS7hoDvJirFjEyRDyqMNCr&file=KeobaseTools.zip",
     "full_url": "https://drive.google.com/open?id=1z_FQWLbOTC7VRm9nRGVuAdpm1ECuOX-R",
@@ -36,14 +36,14 @@
   "history": [
     {
       "version": "1.3",
-      "release_date": "2026-11-12 13:58:42",
+      "release_date": "2026-11-12 14:32:57",
       "summary": "Bản phát hành 1.3 - Cập nhật: Module CAD (.NET), Keobase Tools Desktop & Gaihi OCR, Userscript Chrome",
       "notes": "Bản phát hành 1.3 - Cập nhật: Module CAD (.NET), Keobase Tools Desktop & Gaihi OCR, Userscript Chrome",
       "pyapp": {
         "version": "1.3",
         "type": "patch",
         "patch_url": "https://drive.google.com/open?id=1d41xy1MkbNOS7hoDvJirFjEyRDyqMNCr",
-        "patch_sha256": "cff49f9d45752848967d6698af36493caa8290f257a02d82f6764370e876c1f7",
+        "patch_sha256": "180fb56897136bd3e29a3a0a0144c6384d209a6f5c3efde1c8204bad9e4af8f1",
         "download_url": "https://drive.google.com/open?id=1d41xy1MkbNOS7hoDvJirFjEyRDyqMNCr&file=KeobaseTools.zip",
         "gdrive_url": "https://drive.google.com/open?id=1d41xy1MkbNOS7hoDvJirFjEyRDyqMNCr&file=KeobaseTools.zip",
         "full_url": "https://drive.google.com/open?id=1z_FQWLbOTC7VRm9nRGVuAdpm1ECuOX-R",
