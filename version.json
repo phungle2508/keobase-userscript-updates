@@ -1,14 +1,14 @@
 {
   "version": "v0.0.2",
-  "release_date": "2026-11-13 09:16:59",
+  "release_date": "2026-11-13 11:29:12",
   "pyapp": {
     "version": "v0.0.2",
     "type": "patch",
-    "patch_url": "https://drive.google.com/open?id=13gF9qulwjqClaNLa7r2lHZBsTYOBFZ8w",
-    "patch_sha256": "e80c95240ee68920a1d3a4e07c43561055d67bc854060901d621126dee0a51a9",
-    "download_url": "https://drive.google.com/open?id=13gF9qulwjqClaNLa7r2lHZBsTYOBFZ8w&file=KeobaseTools.zip",
-    "gdrive_url": "https://drive.google.com/open?id=13gF9qulwjqClaNLa7r2lHZBsTYOBFZ8w&file=KeobaseTools.zip",
-    "full_url": "https://drive.google.com/open?id=1I3u2ZfrpsoE3Ug5nu5Fxt5Z50sObfEb2",
+    "patch_url": "https://github.com/phungle2508/keobase-userscript-updates/releases/download/v0.0.2/KeobaseTools-Patch-v0.0.2.zip",
+    "patch_sha256": "f996fe65969591c2a026c64f61fb0f987b5b3831c6a3e56da46f8246db1a9329",
+    "download_url": "https://github.com/phungle2508/keobase-userscript-updates/releases/download/v0.0.2/KeobaseTools-Patch-v0.0.2.zip",
+    "gdrive_url": "https://github.com/phungle2508/keobase-userscript-updates/releases/download/v0.0.2/KeobaseTools-Patch-v0.0.2.zip",
+    "full_url": "https://drive.google.com/open?id=13gF9qulwjqClaNLa7r2lHZBsTYOBFZ8w&file=KeobaseTools.zip",
     "setup_url": "https://drive.google.com/open?id=1MaXWpLGsX2y1su4m8qCidFf9JHpQK6UC",
     "setup_filename": "KeobaseTools_Setup_v0.0.2.exe",
     "notes": "Bản phát hành v0.0.2 - Bộ cài Setup.exe và Fast Patch (~3MB, Update trong 2 giây)"
@@ -36,17 +36,17 @@
   "history": [
     {
       "version": "v0.0.2",
-      "release_date": "2026-11-13 09:16:59",
+      "release_date": "2026-11-13 11:29:12",
       "summary": "Bản phát hành v0.0.2 - Cập nhật: Module CAD (.NET), Keobase Tools Desktop & Gaihi OCR, Userscript Chrome",
       "notes": "Bản phát hành v0.0.2 - Cập nhật: Module CAD (.NET), Keobase Tools Desktop & Gaihi OCR, Userscript Chrome",
       "pyapp": {
         "version": "v0.0.2",
         "type": "patch",
-        "patch_url": "https://drive.google.com/open?id=13gF9qulwjqClaNLa7r2lHZBsTYOBFZ8w",
-        "patch_sha256": "e80c95240ee68920a1d3a4e07c43561055d67bc854060901d621126dee0a51a9",
-        "download_url": "https://drive.google.com/open?id=13gF9qulwjqClaNLa7r2lHZBsTYOBFZ8w&file=KeobaseTools.zip",
-        "gdrive_url": "https://drive.google.com/open?id=13gF9qulwjqClaNLa7r2lHZBsTYOBFZ8w&file=KeobaseTools.zip",
-        "full_url": "https://drive.google.com/open?id=1I3u2ZfrpsoE3Ug5nu5Fxt5Z50sObfEb2",
+        "patch_url": "https://github.com/phungle2508/keobase-userscript-updates/releases/download/v0.0.2/KeobaseTools-Patch-v0.0.2.zip",
+        "patch_sha256": "f996fe65969591c2a026c64f61fb0f987b5b3831c6a3e56da46f8246db1a9329",
+        "download_url": "https://github.com/phungle2508/keobase-userscript-updates/releases/download/v0.0.2/KeobaseTools-Patch-v0.0.2.zip",
+        "gdrive_url": "https://github.com/phungle2508/keobase-userscript-updates/releases/download/v0.0.2/KeobaseTools-Patch-v0.0.2.zip",
+        "full_url": "https://drive.google.com/open?id=13gF9qulwjqClaNLa7r2lHZBsTYOBFZ8w&file=KeobaseTools.zip",
         "setup_url": "https://drive.google.com/open?id=1MaXWpLGsX2y1su4m8qCidFf9JHpQK6UC",
         "setup_filename": "KeobaseTools_Setup_v0.0.2.exe",
         "notes": "Bản phát hành v0.0.2 - Bộ cài Setup.exe và Fast Patch (~3MB, Update trong 2 giây)"
