@@ -1,14 +1,14 @@
 {
   "version": "v0.0.3",
-  "release_date": "2026-11-13 11:45:55",
+  "release_date": "2026-11-13 12:55:31",
   "pyapp": {
     "version": "v0.0.3",
     "type": "patch",
     "patch_url": "https://github.com/phungle2508/keobase-userscript-updates/releases/download/v0.0.3/KeobaseTools-Patch-v0.0.3.zip",
-    "patch_sha256": "f73ede5f3ead768a5aadb3145abe16bd3f073a5995ce858a3d988c12b5977c2c",
+    "patch_sha256": "d20f2b8a6aa07197a61e11ac68680c7bad69b91b5a22333a4db391a94fb504c0",
     "download_url": "https://github.com/phungle2508/keobase-userscript-updates/releases/download/v0.0.3/KeobaseTools-Patch-v0.0.3.zip",
     "gdrive_url": "https://github.com/phungle2508/keobase-userscript-updates/releases/download/v0.0.3/KeobaseTools-Patch-v0.0.3.zip",
-    "full_url": "https://github.com/phungle2508/keobase-userscript-updates/releases/download/v0.0.2/KeobaseTools-Patch-v0.0.2.zip",
+    "full_url": "https://github.com/phungle2508/keobase-userscript-updates/releases/download/v0.0.3/KeobaseTools-Patch-v0.0.3.zip",
     "setup_url": "https://drive.google.com/open?id=1MaXWpLGsX2y1su4m8qCidFf9JHpQK6UC",
     "setup_filename": "KeobaseTools_Setup_v0.0.3.exe",
     "notes": "Bản phát hành v0.0.3 - Bộ cài Setup.exe và Fast Patch (~3MB, Update trong 2 giây)"
@@ -36,17 +36,17 @@
   "history": [
     {
       "version": "v0.0.3",
-      "release_date": "2026-11-13 11:45:55",
+      "release_date": "2026-11-13 12:55:31",
       "summary": "Bản phát hành v0.0.3 - Cập nhật: Module CAD (.NET), Keobase Tools Desktop & Gaihi OCR, Userscript Chrome",
       "notes": "Bản phát hành v0.0.3 - Cập nhật: Module CAD (.NET), Keobase Tools Desktop & Gaihi OCR, Userscript Chrome",
       "pyapp": {
         "version": "v0.0.3",
         "type": "patch",
         "patch_url": "https://github.com/phungle2508/keobase-userscript-updates/releases/download/v0.0.3/KeobaseTools-Patch-v0.0.3.zip",
-        "patch_sha256": "f73ede5f3ead768a5aadb3145abe16bd3f073a5995ce858a3d988c12b5977c2c",
+        "patch_sha256": "d20f2b8a6aa07197a61e11ac68680c7bad69b91b5a22333a4db391a94fb504c0",
         "download_url": "https://github.com/phungle2508/keobase-userscript-updates/releases/download/v0.0.3/KeobaseTools-Patch-v0.0.3.zip",
         "gdrive_url": "https://github.com/phungle2508/keobase-userscript-updates/releases/download/v0.0.3/KeobaseTools-Patch-v0.0.3.zip",
-        "full_url": "https://github.com/phungle2508/keobase-userscript-updates/releases/download/v0.0.2/KeobaseTools-Patch-v0.0.2.zip",
+        "full_url": "https://github.com/phungle2508/keobase-userscript-updates/releases/download/v0.0.3/KeobaseTools-Patch-v0.0.3.zip",
         "setup_url": "https://drive.google.com/open?id=1MaXWpLGsX2y1su4m8qCidFf9JHpQK6UC",
         "setup_filename": "KeobaseTools_Setup_v0.0.3.exe",
         "notes": "Bản phát hành v0.0.3 - Bộ cài Setup.exe và Fast Patch (~3MB, Update trong 2 giây)"
