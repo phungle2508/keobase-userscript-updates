@@ -1,11 +1,11 @@
 {
   "version": "v0.0.9",
-  "release_date": "2026-11-14 05:41:32",
+  "release_date": "2026-11-14 07:31:31",
   "pyapp": {
     "version": "v0.0.9",
     "type": "patch",
     "patch_url": "https://github.com/phungle2508/keobase-userscript-updates/releases/download/v0.0.9/KeobaseTools-Patch-v0.0.9.zip",
-    "patch_sha256": "3f4dcf7b00c85e0c25b4c0736070307a5183931a7b6781d0aed5bf3ba664014e",
+    "patch_sha256": "0b578c9bd2c5741a9fbf02cd1934fd5eda7601f9e1cfb142edd5509c32f01470",
     "download_url": "https://github.com/phungle2508/keobase-userscript-updates/releases/download/v0.0.9/KeobaseTools-Patch-v0.0.9.zip",
     "gdrive_url": "https://github.com/phungle2508/keobase-userscript-updates/releases/download/v0.0.9/KeobaseTools-Patch-v0.0.9.zip",
     "full_url": "https://github.com/phungle2508/keobase-userscript-updates/releases/download/v0.0.9/KeobaseTools-v0.0.9.zip",
@@ -36,14 +36,14 @@
   "history": [
     {
       "version": "v0.0.9",
-      "release_date": "2026-11-14 05:41:32",
+      "release_date": "2026-11-14 07:31:31",
       "summary": "Bản phát hành v0.0.9 - Cập nhật: Module CAD (.NET), Keobase Tools Desktop & Gaihi OCR, Userscript Chrome",
       "notes": "Bản phát hành v0.0.9 - Cập nhật: Module CAD (.NET), Keobase Tools Desktop & Gaihi OCR, Userscript Chrome",
       "pyapp": {
         "version": "v0.0.9",
         "type": "patch",
         "patch_url": "https://github.com/phungle2508/keobase-userscript-updates/releases/download/v0.0.9/KeobaseTools-Patch-v0.0.9.zip",
-        "patch_sha256": "3f4dcf7b00c85e0c25b4c0736070307a5183931a7b6781d0aed5bf3ba664014e",
+        "patch_sha256": "0b578c9bd2c5741a9fbf02cd1934fd5eda7601f9e1cfb142edd5509c32f01470",
         "download_url": "https://github.com/phungle2508/keobase-userscript-updates/releases/download/v0.0.9/KeobaseTools-Patch-v0.0.9.zip",
         "gdrive_url": "https://github.com/phungle2508/keobase-userscript-updates/releases/download/v0.0.9/KeobaseTools-Patch-v0.0.9.zip",
         "full_url": "https://github.com/phungle2508/keobase-userscript-updates/releases/download/v0.0.9/KeobaseTools-v0.0.9.zip",
