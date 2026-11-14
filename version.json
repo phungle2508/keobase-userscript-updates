@@ -1,17 +1,17 @@
 {
   "version": "v0.0.8",
-  "release_date": "2026-11-14 03:44:39",
+  "release_date": "2026-11-14 04:02:32",
   "pyapp": {
     "version": "v0.0.8",
     "type": "patch",
     "patch_url": "https://github.com/phungle2508/keobase-userscript-updates/releases/download/v0.0.8/KeobaseTools-Patch-v0.0.8.zip",
-    "patch_sha256": "cbb666f56660586131156b6a3550afaffc202a06cc9909357c0c5eaebde06aa8",
+    "patch_sha256": "8cfb37f8cf7affda88109f4470222cb1668162f3ccb3404c83c4a7a67bb531fb",
     "download_url": "https://github.com/phungle2508/keobase-userscript-updates/releases/download/v0.0.8/KeobaseTools-Patch-v0.0.8.zip",
     "gdrive_url": "https://github.com/phungle2508/keobase-userscript-updates/releases/download/v0.0.8/KeobaseTools-Patch-v0.0.8.zip",
-    "full_url": "https://github.com/phungle2508/keobase-userscript-updates/releases/download/v0.0.7/KeobaseTools-Patch-v0.0.7.zip",
+    "full_url": "https://github.com/phungle2508/keobase-userscript-updates/releases/download/v0.0.8/KeobaseTools-v0.0.8.zip",
     "setup_url": "https://drive.google.com/open?id=1MaXWpLGsX2y1su4m8qCidFf9JHpQK6UC",
     "setup_filename": "KeobaseTools_Setup_v0.0.8.exe",
-    "notes": "Bản phát hành v0.0.8 - Bộ cài Setup.exe và Fast Patch (~3MB, Update trong 2 giây)"
+    "notes": "Bản phát hành v0.0.8 - Bộ cài Setup.exe và Fast Patch (cập nhật trong vài giây, không cần tải lại Full ZIP)"
   },
   "script": {
     "version": "v0.0.8",
@@ -36,20 +36,20 @@
   "history": [
     {
       "version": "v0.0.8",
-      "release_date": "2026-11-14 03:44:39",
+      "release_date": "2026-11-14 04:02:32",
       "summary": "Bản phát hành v0.0.8 - Cập nhật: Module CAD (.NET), Keobase Tools Desktop & Gaihi OCR, Userscript Chrome",
       "notes": "Bản phát hành v0.0.8 - Cập nhật: Module CAD (.NET), Keobase Tools Desktop & Gaihi OCR, Userscript Chrome",
       "pyapp": {
         "version": "v0.0.8",
         "type": "patch",
         "patch_url": "https://github.com/phungle2508/keobase-userscript-updates/releases/download/v0.0.8/KeobaseTools-Patch-v0.0.8.zip",
-        "patch_sha256": "cbb666f56660586131156b6a3550afaffc202a06cc9909357c0c5eaebde06aa8",
+        "patch_sha256": "8cfb37f8cf7affda88109f4470222cb1668162f3ccb3404c83c4a7a67bb531fb",
         "download_url": "https://github.com/phungle2508/keobase-userscript-updates/releases/download/v0.0.8/KeobaseTools-Patch-v0.0.8.zip",
         "gdrive_url": "https://github.com/phungle2508/keobase-userscript-updates/releases/download/v0.0.8/KeobaseTools-Patch-v0.0.8.zip",
-        "full_url": "https://github.com/phungle2508/keobase-userscript-updates/releases/download/v0.0.7/KeobaseTools-Patch-v0.0.7.zip",
+        "full_url": "https://github.com/phungle2508/keobase-userscript-updates/releases/download/v0.0.8/KeobaseTools-v0.0.8.zip",
         "setup_url": "https://drive.google.com/open?id=1MaXWpLGsX2y1su4m8qCidFf9JHpQK6UC",
         "setup_filename": "KeobaseTools_Setup_v0.0.8.exe",
-        "notes": "Bản phát hành v0.0.8 - Bộ cài Setup.exe và Fast Patch (~3MB, Update trong 2 giây)"
+        "notes": "Bản phát hành v0.0.8 - Bộ cài Setup.exe và Fast Patch (cập nhật trong vài giây, không cần tải lại Full ZIP)"
       },
       "script": {
         "version": "v0.0.8",
