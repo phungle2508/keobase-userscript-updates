@@ -1,11 +1,11 @@
 {
   "version": "0.1.1",
-  "release_date": "2026-11-14 13:37:17",
+  "release_date": "2026-11-14 15:35:00",
   "pyapp": {
     "version": "0.1.1",
     "type": "patch",
     "patch_url": "https://github.com/phungle2508/keobase-userscript-updates/releases/download/0.1.1/KeobaseTools-Patch-0.1.1.zip",
-    "patch_sha256": "c233d6ed2eb521a90747b1dad23cdbf72d35af7f93d216fe821e5bdc18625489",
+    "patch_sha256": "38d7a1a2ec542352ad68a288878f893461cbbab826c4e98d92757ada5c7c2486",
     "download_url": "https://github.com/phungle2508/keobase-userscript-updates/releases/download/0.1.1/KeobaseTools-Patch-0.1.1.zip",
     "gdrive_url": "https://github.com/phungle2508/keobase-userscript-updates/releases/download/0.1.1/KeobaseTools-Patch-0.1.1.zip",
     "full_url": "https://github.com/phungle2508/keobase-userscript-updates/releases/download/0.1.1/KeobaseTools-0.1.1.zip",
@@ -36,14 +36,14 @@
   "history": [
     {
       "version": "0.1.1",
-      "release_date": "2026-11-14 13:37:17",
+      "release_date": "2026-11-14 15:35:00",
       "summary": "Bản phát hành 0.1.1 - Cập nhật: Module CAD (.NET), Keobase Tools Desktop & Gaihi OCR, Userscript Chrome",
       "notes": "Bản phát hành 0.1.1 - Cập nhật: Module CAD (.NET), Keobase Tools Desktop & Gaihi OCR, Userscript Chrome",
       "pyapp": {
         "version": "0.1.1",
         "type": "patch",
         "patch_url": "https://github.com/phungle2508/keobase-userscript-updates/releases/download/0.1.1/KeobaseTools-Patch-0.1.1.zip",
-        "patch_sha256": "c233d6ed2eb521a90747b1dad23cdbf72d35af7f93d216fe821e5bdc18625489",
+        "patch_sha256": "38d7a1a2ec542352ad68a288878f893461cbbab826c4e98d92757ada5c7c2486",
         "download_url": "https://github.com/phungle2508/keobase-userscript-updates/releases/download/0.1.1/KeobaseTools-Patch-0.1.1.zip",
         "gdrive_url": "https://github.com/phungle2508/keobase-userscript-updates/releases/download/0.1.1/KeobaseTools-Patch-0.1.1.zip",
         "full_url": "https://github.com/phungle2508/keobase-userscript-updates/releases/download/0.1.1/KeobaseTools-0.1.1.zip",
