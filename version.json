@@ -1,39 +1,77 @@
 {
-  "version": "v0.2.8",
-  "release_date": "2026-11-17 13:39:50",
+  "version": "v0.3.0",
+  "release_date": "2026-11-18 04:18:44",
   "pyapp": {
-    "version": "v0.2.8",
-    "type": "patch",
-    "patch_url": "https://github.com/phungle2508/keobase-userscript-updates/releases/download/v0.2.8/KeobaseTools-Patch-v0.2.8.zip",
-    "patch_sha256": "79af258c810781fcce44c4c516b5fe6be2a19cece41e365baf38681ecf7d130f",
-    "download_url": "https://github.com/phungle2508/keobase-userscript-updates/releases/download/v0.2.8/KeobaseTools-Patch-v0.2.8.zip",
-    "gdrive_url": "https://github.com/phungle2508/keobase-userscript-updates/releases/download/v0.2.8/KeobaseTools-Patch-v0.2.8.zip",
-    "full_url": "https://github.com/phungle2508/keobase-userscript-updates/releases/download/v0.2.8/KeobaseTools-v0.2.8.zip",
-    "setup_url": "https://drive.google.com/open?id=1MaXWpLGsX2y1su4m8qCidFf9JHpQK6UC",
-    "setup_filename": "KeobaseTools_Setup_v0.2.8.exe",
-    "notes": "Bản phát hành v0.2.8 - Bộ cài Setup.exe và Fast Patch (cập nhật trong vài giây, không cần tải lại Full ZIP)"
+    "version": "v0.3.0",
+    "type": "velopack",
+    "patch_url": "https://github.com/phungle2508/keobase-userscript-updates/releases/download/v0.3.0/KeobaseTools_Setup_v0.3.0.exe",
+    "patch_sha256": "",
+    "download_url": "https://github.com/phungle2508/keobase-userscript-updates/releases/download/v0.3.0/KeobaseTools_Setup_v0.3.0.exe",
+    "gdrive_url": "https://github.com/phungle2508/keobase-userscript-updates/releases/download/v0.3.0/KeobaseTools_Setup_v0.3.0.exe",
+    "full_url": "https://github.com/phungle2508/keobase-userscript-updates/releases/download/v0.3.0/KeobaseTools_Setup_v0.3.0.exe",
+    "setup_url": "https://github.com/phungle2508/keobase-userscript-updates/releases/download/v0.3.0/KeobaseTools_Setup_v0.3.0.exe",
+    "setup_filename": "KeobaseTools_Setup_v0.3.0.exe",
+    "notes": "Bản phát hành v0.3.0 - Bộ cài chuẩn Velopack & Tự động cập nhật Delta"
   },
   "script": {
-    "version": "v0.2.8",
+    "version": "v0.3.0",
     "github_url": "https://github.com/phungle2508/keobase-userscript-updates/blob/main/keobase-bridge.user.js",
     "install_url": "https://raw.githubusercontent.com/phungle2508/keobase-userscript-updates/main/keobase-bridge.user.js",
     "raw_url": "https://raw.githubusercontent.com/phungle2508/keobase-userscript-updates/main/keobase-bridge.user.js",
-    "notes": "Userscript Bridge đồng bộ Base Workflow (v0.2.8)"
+    "notes": "Userscript Bridge đồng bộ Base Workflow (v0.3.0)"
   },
   "module": {
-    "version": "v0.2.8",
+    "version": "v0.3.0",
     "url": "https://drive.google.com/open?id=1z5M4jISZto5zi_1glspVTciXWBUUCHBk",
     "download_url": "https://drive.google.com/open?id=1z5M4jISZto5zi_1glspVTciXWBUUCHBk",
     "gdrive_url": "https://drive.google.com/open?id=1z5M4jISZto5zi_1glspVTciXWBUUCHBk",
     "cty_url": "https://drive.google.com/open?id=1z5M4jISZto5zi_1glspVTciXWBUUCHBk",
     "normal_url": "https://drive.google.com/open?id=1m4tPxE7jMEOOo9lhVOSki4lGMhZCF5ex",
-    "notes": "ModuleBackground CAD BricsCAD DLLs mới nhất (v0.2.8) - Hỗ trợ cả Bản Công ty và Bản Thường"
+    "notes": "ModuleBackground CAD BricsCAD DLLs mới nhất (v0.3.0) - Hỗ trợ cả Bản Công ty và Bản Thường"
   },
   "gaihi": {
-    "version": "v0.2.8",
-    "notes": "Gaihi OCR Pipeline & GUI (v0.2.8)"
+    "version": "v0.3.0",
+    "notes": "Gaihi OCR Pipeline & GUI (v0.3.0)"
   },
   "history": [
+    {
+      "version": "v0.3.0",
+      "release_date": "2026-11-18 04:18:44",
+      "summary": "Bản phát hành v0.3.0 - Cập nhật: Module CAD (.NET), Keobase Tools Desktop & Gaihi OCR, Userscript Chrome",
+      "notes": "Bản phát hành v0.3.0 - Cập nhật: Module CAD (.NET), Keobase Tools Desktop & Gaihi OCR, Userscript Chrome",
+      "pyapp": {
+        "version": "v0.3.0",
+        "type": "velopack",
+        "patch_url": "https://github.com/phungle2508/keobase-userscript-updates/releases/download/v0.3.0/KeobaseTools_Setup_v0.3.0.exe",
+        "patch_sha256": "",
+        "download_url": "https://github.com/phungle2508/keobase-userscript-updates/releases/download/v0.3.0/KeobaseTools_Setup_v0.3.0.exe",
+        "gdrive_url": "https://github.com/phungle2508/keobase-userscript-updates/releases/download/v0.3.0/KeobaseTools_Setup_v0.3.0.exe",
+        "full_url": "https://github.com/phungle2508/keobase-userscript-updates/releases/download/v0.3.0/KeobaseTools_Setup_v0.3.0.exe",
+        "setup_url": "https://github.com/phungle2508/keobase-userscript-updates/releases/download/v0.3.0/KeobaseTools_Setup_v0.3.0.exe",
+        "setup_filename": "KeobaseTools_Setup_v0.3.0.exe",
+        "notes": "Bản phát hành v0.3.0 - Bộ cài chuẩn Velopack & Tự động cập nhật Delta"
+      },
+      "script": {
+        "version": "v0.3.0",
+        "github_url": "https://github.com/phungle2508/keobase-userscript-updates/blob/main/keobase-bridge.user.js",
+        "install_url": "https://raw.githubusercontent.com/phungle2508/keobase-userscript-updates/main/keobase-bridge.user.js",
+        "raw_url": "https://raw.githubusercontent.com/phungle2508/keobase-userscript-updates/main/keobase-bridge.user.js",
+        "notes": "Userscript Bridge đồng bộ Base Workflow (v0.3.0)"
+      },
+      "module": {
+        "version": "v0.3.0",
+        "url": "https://drive.google.com/open?id=1z5M4jISZto5zi_1glspVTciXWBUUCHBk",
+        "download_url": "https://drive.google.com/open?id=1z5M4jISZto5zi_1glspVTciXWBUUCHBk",
+        "gdrive_url": "https://drive.google.com/open?id=1z5M4jISZto5zi_1glspVTciXWBUUCHBk",
+        "cty_url": "https://drive.google.com/open?id=1z5M4jISZto5zi_1glspVTciXWBUUCHBk",
+        "normal_url": "https://drive.google.com/open?id=1m4tPxE7jMEOOo9lhVOSki4lGMhZCF5ex",
+        "notes": "ModuleBackground CAD BricsCAD DLLs mới nhất (v0.3.0) - Hỗ trợ cả Bản Công ty và Bản Thường"
+      },
+      "gaihi": {
+        "version": "v0.3.0",
+        "notes": "Gaihi OCR Pipeline & GUI (v0.3.0)"
+      }
+    },
     {
       "version": "v0.2.8",
       "release_date": "2026-11-17 13:39:50",
@@ -184,44 +222,6 @@
       "gaihi": {
         "version": "v0.2.5",
         "notes": "Gaihi OCR Pipeline & GUI (v0.2.5)"
-      }
-    },
-    {
-      "version": "v0.2.4",
-      "release_date": "2026-11-16 06:48:06",
-      "summary": "Bản phát hành v0.2.4 - Cập nhật: Module CAD (.NET), Keobase Tools Desktop & Gaihi OCR, Userscript Chrome",
-      "notes": "Bản phát hành v0.2.4 - Cập nhật: Module CAD (.NET), Keobase Tools Desktop & Gaihi OCR, Userscript Chrome",
-      "pyapp": {
-        "version": "v0.2.4",
-        "type": "patch",
-        "patch_url": "https://github.com/phungle2508/keobase-userscript-updates/releases/download/v0.2.4/KeobaseTools-Patch-v0.2.4.zip",
-        "patch_sha256": "41c2e7e71fda9e196882c4ad73ace213af528913ca0593051a26fdc9a5e69052",
-        "download_url": "https://github.com/phungle2508/keobase-userscript-updates/releases/download/v0.2.4/KeobaseTools-Patch-v0.2.4.zip",
-        "gdrive_url": "https://github.com/phungle2508/keobase-userscript-updates/releases/download/v0.2.4/KeobaseTools-Patch-v0.2.4.zip",
-        "full_url": "https://github.com/phungle2508/keobase-userscript-updates/releases/download/v0.2.4/KeobaseTools-v0.2.4.zip",
-        "setup_url": "https://drive.google.com/open?id=1MaXWpLGsX2y1su4m8qCidFf9JHpQK6UC",
-        "setup_filename": "KeobaseTools_Setup_v0.2.4.exe",
-        "notes": "Bản phát hành v0.2.4 - Bộ cài Setup.exe và Fast Patch (cập nhật trong vài giây, không cần tải lại Full ZIP)"
-      },
-      "script": {
-        "version": "v0.2.4",
-        "github_url": "https://github.com/phungle2508/keobase-userscript-updates/blob/main/keobase-bridge.user.js",
-        "install_url": "https://raw.githubusercontent.com/phungle2508/keobase-userscript-updates/main/keobase-bridge.user.js",
-        "raw_url": "https://raw.githubusercontent.com/phungle2508/keobase-userscript-updates/main/keobase-bridge.user.js",
-        "notes": "Userscript Bridge đồng bộ Base Workflow (v0.2.4)"
-      },
-      "module": {
-        "version": "v0.2.4",
-        "url": "https://drive.google.com/open?id=1z5M4jISZto5zi_1glspVTciXWBUUCHBk",
-        "download_url": "https://drive.google.com/open?id=1z5M4jISZto5zi_1glspVTciXWBUUCHBk",
-        "gdrive_url": "https://drive.google.com/open?id=1z5M4jISZto5zi_1glspVTciXWBUUCHBk",
-        "cty_url": "https://drive.google.com/open?id=1z5M4jISZto5zi_1glspVTciXWBUUCHBk",
-        "normal_url": "https://drive.google.com/open?id=1m4tPxE7jMEOOo9lhVOSki4lGMhZCF5ex",
-        "notes": "ModuleBackground CAD BricsCAD DLLs mới nhất (v0.2.4) - Hỗ trợ cả Bản Công ty và Bản Thường"
-      },
-      "gaihi": {
-        "version": "v0.2.4",
-        "notes": "Gaihi OCR Pipeline & GUI (v0.2.4)"
       }
     }
   ]
