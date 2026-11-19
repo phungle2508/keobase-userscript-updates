@@ -1,6 +1,6 @@
 {
   "version": "v0.5.4",
-  "release_date": "2026-11-19 23:55:48",
+  "release_date": "2026-11-20 00:25:22",
   "notes": "Sửa lỗi auto-updater và đồng bộ CAD",
   "pyapp": {
     "version": "v0.5.4",
@@ -27,7 +27,7 @@
   "history": [
     {
       "version": "v0.5.4",
-      "release_date": "2026-11-19 23:55:48",
+      "release_date": "2026-11-20 00:25:22",
       "summary": "Sửa lỗi auto-updater và đồng bộ CAD",
       "notes": "Sửa lỗi auto-updater và đồng bộ CAD",
       "pyapp": {
