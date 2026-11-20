@@ -1,6 +1,6 @@
 ﻿{
     "version":  "v0.5.7",
-    "release_date":  "2026-11-20 16:10:53",
+    "release_date":  "2026-11-20 16:38:37",
     "notes":  "Bản phát hành v0.5.7",
     "pyapp":  {
                   "version":  "v0.5.7",
@@ -27,7 +27,7 @@
     "history":  [
                     {
                         "version":  "v0.5.7",
-                        "release_date":  "2026-11-20 16:10:53",
+                        "release_date":  "2026-11-20 16:38:37",
                         "summary":  "Bản phát hành v0.5.7",
                         "notes":  "Bản phát hành v0.5.7",
                         "pyapp":  {
