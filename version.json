@@ -1,30 +1,57 @@
 {
-  "version": "v0.5.7",
-  "release_date": "2026-11-20 17:48:52",
-  "notes": "Sửa lỗi auto-updater và đồng bộ CAD",
+  "version": "v0.5.8",
+  "release_date": "2026-11-21 19:45:00",
+  "notes": "Tái cấu trúc pipeline (dxf_tools, docuworks-py) và tối ưu DLL DocuWorks; sửa lỗi đóng gói Cython native",
   "pyapp": {
-    "version": "v0.5.7",
+    "version": "v0.5.8",
     "type": "velopack",
-    "setup_url": "https://github.com/phungle2508/keobase-userscript-updates/releases/download/v0.5.7/KeobaseTools_Setup_v0.5.7.exe",
-    "setup_filename": "KeobaseTools_Setup_v0.5.7.exe",
-    "notes": "Sửa lỗi auto-updater và đồng bộ CAD"
+    "setup_url": "https://github.com/phungle2508/keobase-userscript-updates/releases/download/v0.5.8/KeobaseTools_Setup_v0.5.8.exe",
+    "setup_filename": "KeobaseTools_Setup_v0.5.8.exe",
+    "notes": "Tái cấu trúc pipeline (dxf_tools, docuworks-py) và tối ưu DLL DocuWorks; sửa lỗi đóng gói Cython native"
   },
   "script": {
-    "version": "0.5.7",
+    "version": "0.5.8",
     "github_url": "https://github.com/phungle2508/keobase-userscript-updates/blob/main/keobase-bridge.user.js",
     "install_url": "https://raw.githubusercontent.com/phungle2508/keobase-userscript-updates/main/keobase-bridge.user.js",
     "raw_url": "https://raw.githubusercontent.com/phungle2508/keobase-userscript-updates/main/keobase-bridge.user.js",
-    "notes": "Sửa lỗi auto-updater và đồng bộ CAD"
+    "notes": "Tái cấu trúc pipeline (dxf_tools, docuworks-py) và tối ưu DLL DocuWorks; sửa lỗi đóng gói Cython native"
   },
   "module": {
-    "version": "v0.5.7",
-    "notes": "DLL CAD đi kèm trong gói cài đặt (tự giải nén khi chạy ứng dụng). Sửa lỗi auto-updater và đồng bộ CAD"
+    "version": "v0.5.8",
+    "notes": "DLL CAD đi kèm trong gói cài đặt (tự giải nén khi chạy ứng dụng). Tái cấu trúc pipeline (dxf_tools, docuworks-py) và tối ưu DLL DocuWorks; sửa lỗi đóng gói Cython native"
   },
   "gaihi": {
-    "version": "v0.5.7",
-    "notes": "Gaihi OCR Pipeline & GUI (v0.5.7)"
+    "version": "v0.5.8",
+    "notes": "Gaihi OCR Pipeline & GUI (v0.5.8)"
   },
   "history": [
+    {
+      "version": "v0.5.8",
+      "release_date": "2026-11-21 19:45:00",
+      "notes": "Tái cấu trúc pipeline (dxf_tools, docuworks-py) và tối ưu DLL DocuWorks; sửa lỗi đóng gói Cython native",
+      "pyapp": {
+        "version": "v0.5.8",
+        "type": "velopack",
+        "setup_url": "https://github.com/phungle2508/keobase-userscript-updates/releases/download/v0.5.8/KeobaseTools_Setup_v0.5.8.exe",
+        "setup_filename": "KeobaseTools_Setup_v0.5.8.exe",
+        "notes": "Tái cấu trúc pipeline (dxf_tools, docuworks-py) và tối ưu DLL DocuWorks; sửa lỗi đóng gói Cython native"
+      },
+      "script": {
+        "version": "0.5.8",
+        "github_url": "https://github.com/phungle2508/keobase-userscript-updates/blob/main/keobase-bridge.user.js",
+        "install_url": "https://raw.githubusercontent.com/phungle2508/keobase-userscript-updates/main/keobase-bridge.user.js",
+        "raw_url": "https://raw.githubusercontent.com/phungle2508/keobase-userscript-updates/main/keobase-bridge.user.js",
+        "notes": "Tái cấu trúc pipeline (dxf_tools, docuworks-py) và tối ưu DLL DocuWorks; sửa lỗi đóng gói Cython native"
+      },
+      "module": {
+        "version": "v0.5.8",
+        "notes": "DLL CAD đi kèm trong gói cài đặt (tự giải nén khi chạy ứng dụng). Tái cấu trúc pipeline (dxf_tools, docuworks-py) và tối ưu DLL DocuWorks; sửa lỗi đóng gói Cython native"
+      },
+      "gaihi": {
+        "version": "v0.5.8",
+        "notes": "Gaihi OCR Pipeline & GUI (v0.5.8)"
+      }
+    },
     {
       "version": "v0.5.7",
       "release_date": "2026-11-20 17:48:52",
@@ -135,34 +162,6 @@
       "gaihi": {
         "version": "v0.5.4",
         "notes": "Gaihi OCR Pipeline & GUI (v0.5.4)"
-      }
-    },
-    {
-      "version": "v0.5.3",
-      "release_date": "2026-11-19 16:40:22",
-      "summary": "Sửa lỗi auto-updater và đồng bộ CAD",
-      "notes": "Sửa lỗi auto-updater và đồng bộ CAD",
-      "pyapp": {
-        "version": "v0.5.3",
-        "type": "velopack",
-        "setup_url": "https://github.com/phungle2508/keobase-userscript-updates/releases/download/v0.5.3/KeobaseTools_Setup_v0.5.3.exe",
-        "setup_filename": "KeobaseTools_Setup_v0.5.3.exe",
-        "notes": "Sửa lỗi auto-updater và đồng bộ CAD"
-      },
-      "script": {
-        "version": "0.5.3",
-        "github_url": "https://github.com/phungle2508/keobase-userscript-updates/blob/main/keobase-bridge.user.js",
-        "install_url": "https://raw.githubusercontent.com/phungle2508/keobase-userscript-updates/main/keobase-bridge.user.js",
-        "raw_url": "https://raw.githubusercontent.com/phungle2508/keobase-userscript-updates/main/keobase-bridge.user.js",
-        "notes": "Sửa lỗi auto-updater và đồng bộ CAD"
-      },
-      "module": {
-        "version": "v0.5.3",
-        "notes": "DLL CAD đi kèm trong gói cài đặt (tự giải nén khi chạy ứng dụng). Sửa lỗi auto-updater và đồng bộ CAD"
-      },
-      "gaihi": {
-        "version": "v0.5.3",
-        "notes": "Gaihi OCR Pipeline & GUI (v0.5.3)"
       }
     }
   ]
