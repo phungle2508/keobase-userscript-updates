@@ -1,24 +1,24 @@
 {
     "version":  "v0.5.13",
-    "release_date":  "2026-11-23 21:32:10",
-    "notes":  "License Ed25519 dung chung Python-CAD (fingerprint phan cung), dich Gemini + CLI --translate/--set-region, hieu chuan checker tren corpus dung/sai, sua hot revoke (licenses.json), fix frozen docuworks-py",
+    "release_date":  "2026-11-23 21:51:02",
+    "notes":  "License Ed25519 dung chung Python-CAD, dich Gemini + CLI, hieu chuan checker corpus, sua hot revoke + fix updater (BOM version.json, fallback GitHub API khi raw kẹt)",
     "pyapp":  {
                   "version":  "v0.5.13",
                   "type":  "velopack",
                   "setup_url":  "https://github.com/phungle2508/keobase-userscript-updates/releases/download/v0.5.13/KeobaseTools_Setup_v0.5.13.exe",
                   "setup_filename":  "KeobaseTools_Setup_v0.5.13.exe",
-                  "notes":  "License Ed25519 dung chung Python-CAD (fingerprint phan cung), dich Gemini + CLI --translate/--set-region, hieu chuan checker tren corpus dung/sai, sua hot revoke (licenses.json), fix frozen docuworks-py"
+                  "notes":  "License Ed25519 dung chung Python-CAD, dich Gemini + CLI, hieu chuan checker corpus, sua hot revoke + fix updater (BOM version.json, fallback GitHub API khi raw kẹt)"
               },
     "script":  {
                    "version":  "0.5.13",
                    "github_url":  "https://github.com/phungle2508/keobase-userscript-updates/blob/main/keobase-bridge.user.js",
                    "install_url":  "https://raw.githubusercontent.com/phungle2508/keobase-userscript-updates/main/keobase-bridge.user.js",
                    "raw_url":  "https://raw.githubusercontent.com/phungle2508/keobase-userscript-updates/main/keobase-bridge.user.js",
-                   "notes":  "License Ed25519 dung chung Python-CAD (fingerprint phan cung), dich Gemini + CLI --translate/--set-region, hieu chuan checker tren corpus dung/sai, sua hot revoke (licenses.json), fix frozen docuworks-py"
+                   "notes":  "License Ed25519 dung chung Python-CAD, dich Gemini + CLI, hieu chuan checker corpus, sua hot revoke + fix updater (BOM version.json, fallback GitHub API khi raw kẹt)"
                },
     "module":  {
                    "version":  "v0.5.13",
-                   "notes":  "DLL CAD đi kèm trong gói cài đặt (tự giải nén khi chạy ứng dụng). License Ed25519 dung chung Python-CAD (fingerprint phan cung), dich Gemini + CLI --translate/--set-region, hieu chuan checker tren corpus dung/sai, sua hot revoke (licenses.json), fix frozen docuworks-py"
+                   "notes":  "DLL CAD đi kèm trong gói cài đặt (tự giải nén khi chạy ứng dụng). License Ed25519 dung chung Python-CAD, dich Gemini + CLI, hieu chuan checker corpus, sua hot revoke + fix updater (BOM version.json, fallback GitHub API khi raw kẹt)"
                },
     "gaihi":  {
                   "version":  "v0.5.13",
@@ -27,26 +27,26 @@
     "history":  [
                     {
                         "version":  "v0.5.13",
-                        "release_date":  "2026-11-23 21:32:10",
-                        "summary":  "License Ed25519 dung chung Python-CAD (fingerprint phan cung), dich Gemini + CLI --translate/--set-region, hieu chuan checker tren corpus dung/sai, sua hot revoke (licenses.json), fix frozen docuworks-py",
-                        "notes":  "License Ed25519 dung chung Python-CAD (fingerprint phan cung), dich Gemini + CLI --translate/--set-region, hieu chuan checker tren corpus dung/sai, sua hot revoke (licenses.json), fix frozen docuworks-py",
+                        "release_date":  "2026-11-23 21:51:02",
+                        "summary":  "License Ed25519 dung chung Python-CAD, dich Gemini + CLI, hieu chuan checker corpus, sua hot revoke + fix updater (BOM version.json, fallback GitHub API khi raw kẹt)",
+                        "notes":  "License Ed25519 dung chung Python-CAD, dich Gemini + CLI, hieu chuan checker corpus, sua hot revoke + fix updater (BOM version.json, fallback GitHub API khi raw kẹt)",
                         "pyapp":  {
                                       "version":  "v0.5.13",
                                       "type":  "velopack",
                                       "setup_url":  "https://github.com/phungle2508/keobase-userscript-updates/releases/download/v0.5.13/KeobaseTools_Setup_v0.5.13.exe",
                                       "setup_filename":  "KeobaseTools_Setup_v0.5.13.exe",
-                                      "notes":  "License Ed25519 dung chung Python-CAD (fingerprint phan cung), dich Gemini + CLI --translate/--set-region, hieu chuan checker tren corpus dung/sai, sua hot revoke (licenses.json), fix frozen docuworks-py"
+                                      "notes":  "License Ed25519 dung chung Python-CAD, dich Gemini + CLI, hieu chuan checker corpus, sua hot revoke + fix updater (BOM version.json, fallback GitHub API khi raw kẹt)"
                                   },
                         "script":  {
                                        "version":  "0.5.13",
                                        "github_url":  "https://github.com/phungle2508/keobase-userscript-updates/blob/main/keobase-bridge.user.js",
                                        "install_url":  "https://raw.githubusercontent.com/phungle2508/keobase-userscript-updates/main/keobase-bridge.user.js",
                                        "raw_url":  "https://raw.githubusercontent.com/phungle2508/keobase-userscript-updates/main/keobase-bridge.user.js",
-                                       "notes":  "License Ed25519 dung chung Python-CAD (fingerprint phan cung), dich Gemini + CLI --translate/--set-region, hieu chuan checker tren corpus dung/sai, sua hot revoke (licenses.json), fix frozen docuworks-py"
+                                       "notes":  "License Ed25519 dung chung Python-CAD, dich Gemini + CLI, hieu chuan checker corpus, sua hot revoke + fix updater (BOM version.json, fallback GitHub API khi raw kẹt)"
                                    },
                         "module":  {
                                        "version":  "v0.5.13",
-                                       "notes":  "DLL CAD đi kèm trong gói cài đặt (tự giải nén khi chạy ứng dụng). License Ed25519 dung chung Python-CAD (fingerprint phan cung), dich Gemini + CLI --translate/--set-region, hieu chuan checker tren corpus dung/sai, sua hot revoke (licenses.json), fix frozen docuworks-py"
+                                       "notes":  "DLL CAD đi kèm trong gói cài đặt (tự giải nén khi chạy ứng dụng). License Ed25519 dung chung Python-CAD, dich Gemini + CLI, hieu chuan checker corpus, sua hot revoke + fix updater (BOM version.json, fallback GitHub API khi raw kẹt)"
                                    },
                         "gaihi":  {
                                       "version":  "v0.5.13",
