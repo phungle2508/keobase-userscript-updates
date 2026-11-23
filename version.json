@@ -1,4 +1,4 @@
-﻿{
+{
     "version":  "v0.5.13",
     "release_date":  "2026-11-23 21:32:10",
     "notes":  "License Ed25519 dung chung Python-CAD (fingerprint phan cung), dich Gemini + CLI --translate/--set-region, hieu chuan checker tren corpus dung/sai, sua hot revoke (licenses.json), fix frozen docuworks-py",
