@@ -1,24 +1,24 @@
 {
   "version": "v0.5.14",
-  "release_date": "2026-11-24 09:10:01",
-  "notes": "Sửa lỗi auto-updater và đồng bộ CAD",
+  "release_date": "2026-11-24 23:26:45",
+  "notes": "Bản phát hành v0.5.14",
   "pyapp": {
     "version": "v0.5.14",
     "type": "velopack",
     "setup_url": "https://github.com/phungle2508/keobase-userscript-updates/releases/download/v0.5.14/KeobaseTools_Setup_v0.5.14.exe",
     "setup_filename": "KeobaseTools_Setup_v0.5.14.exe",
-    "notes": "Sửa lỗi auto-updater và đồng bộ CAD"
+    "notes": "Bản phát hành v0.5.14"
   },
   "script": {
     "version": "0.5.14",
     "github_url": "https://github.com/phungle2508/keobase-userscript-updates/blob/main/keobase-bridge.user.js",
     "install_url": "https://raw.githubusercontent.com/phungle2508/keobase-userscript-updates/main/keobase-bridge.user.js",
     "raw_url": "https://raw.githubusercontent.com/phungle2508/keobase-userscript-updates/main/keobase-bridge.user.js",
-    "notes": "Sửa lỗi auto-updater và đồng bộ CAD"
+    "notes": "Bản phát hành v0.5.14"
   },
   "module": {
     "version": "v0.5.14",
-    "notes": "DLL CAD đi kèm trong gói cài đặt (tự giải nén khi chạy ứng dụng). Sửa lỗi auto-updater và đồng bộ CAD"
+    "notes": "DLL CAD đi kèm trong gói cài đặt (tự giải nén khi chạy ứng dụng). Bản phát hành v0.5.14"
   },
   "gaihi": {
     "version": "v0.5.14",
@@ -27,26 +27,26 @@
   "history": [
     {
       "version": "v0.5.14",
-      "release_date": "2026-11-24 09:10:01",
-      "summary": "Sửa lỗi auto-updater và đồng bộ CAD",
-      "notes": "Sửa lỗi auto-updater và đồng bộ CAD",
+      "release_date": "2026-11-24 23:26:45",
+      "summary": "Bản phát hành v0.5.14",
+      "notes": "Bản phát hành v0.5.14",
       "pyapp": {
         "version": "v0.5.14",
         "type": "velopack",
         "setup_url": "https://github.com/phungle2508/keobase-userscript-updates/releases/download/v0.5.14/KeobaseTools_Setup_v0.5.14.exe",
         "setup_filename": "KeobaseTools_Setup_v0.5.14.exe",
-        "notes": "Sửa lỗi auto-updater và đồng bộ CAD"
+        "notes": "Bản phát hành v0.5.14"
       },
       "script": {
         "version": "0.5.14",
         "github_url": "https://github.com/phungle2508/keobase-userscript-updates/blob/main/keobase-bridge.user.js",
         "install_url": "https://raw.githubusercontent.com/phungle2508/keobase-userscript-updates/main/keobase-bridge.user.js",
         "raw_url": "https://raw.githubusercontent.com/phungle2508/keobase-userscript-updates/main/keobase-bridge.user.js",
-        "notes": "Sửa lỗi auto-updater và đồng bộ CAD"
+        "notes": "Bản phát hành v0.5.14"
       },
       "module": {
         "version": "v0.5.14",
-        "notes": "DLL CAD đi kèm trong gói cài đặt (tự giải nén khi chạy ứng dụng). Sửa lỗi auto-updater và đồng bộ CAD"
+        "notes": "DLL CAD đi kèm trong gói cài đặt (tự giải nén khi chạy ứng dụng). Bản phát hành v0.5.14"
       },
       "gaihi": {
         "version": "v0.5.14",
